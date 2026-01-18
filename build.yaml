@@ -19,6 +19,10 @@ include:
     artifact-name: charybdis4x6_right_studio
     snippet: studio-rpc-usb-uart
     cmake-args: -DCONFIG_ZMK_STUDIO=y
+
+
+
+    
   # Charybdis with dongle
   - board: nice_nano
     shield: charybdis4x6_right_periph
